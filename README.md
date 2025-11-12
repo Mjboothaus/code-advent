@@ -1,2 +1,3 @@
-# code-advent
+# `code-advent`
+
 Advent of Code musings
